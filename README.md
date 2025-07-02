@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Dao Minh Thuan
 
-💻 Passionate about software development, machine learning and data science.
-📊 Interested in AUTOSAR development, data analytics, desktop application, restful API service and SQL.
-🎯 Always eager to learn and improve my skills  
+💻 Passionate about software development, machine learning and data science. <br>
+📊 Interested in AUTOSAR development, data analytics, desktop application, restful API service and SQL. <br>
+🎯 Always eager to learn and improve my skills.
 
 ---
 
