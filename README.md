@@ -38,6 +38,18 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=daominhthuan42&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## 📈 GitHub Analytics
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradientStart=FFD700&gradientEnd=FF4500&height=100&section=footer"/>
+</p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=daominhthuan42&icon=0&color=3)](https://visitcount.itsvg.in)
 🔥 **Thank you for visiting!** 🔥    
